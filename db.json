@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "typicode"
+    }
+  ],
+  "employees": [
+    {
+      "firstname": "Satish",
+      "lastname": "sara",
+      "email": "satishkumar999@gmail.com",
+      "dob": "2030-11-12T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduation",
+      "company": "demo",
+      "exp": 3,
+      "package": 33,
+      "id": 2
+    },
+    {
+      "firstname": "Satishkumar",
+      "lastname": "Eerugula",
+      "email": "satishkumar9994587@gmail.com",
+      "dob": "2023-07-03T18:30:00.000Z",
+      "gender": "female",
+      "education": "Matric",
+      "company": "satish",
+      "exp": 6,
+      "package": 30,
+      "id": 3
+    }
+  ]
+}
